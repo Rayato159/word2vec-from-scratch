@@ -19,8 +19,8 @@ CBOWModeler(
 
 # Result
 
-Chihuahua -> is
-is -> dog
-cute -> <EOS>
-dog -> is
-<EOS> -> dog
+Chihuahua -> is<br>
+is -> dog<br>
+cute -> EOS<br>
+dog -> is<br>
+EOS -> dog<br>
